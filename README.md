@@ -1,2 +1,0 @@
-# MintyHippo
-Project of Awesomeness!
